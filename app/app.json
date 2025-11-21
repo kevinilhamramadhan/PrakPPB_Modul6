@@ -29,7 +29,7 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "backendUrl": "http://10.131.195.50:5000",
+      "backendUrl": "http://192.168.1.44:5000",
       "mqtt": {
         "brokerUrl": "wss://broker.hivemq.com:8884/mqtt",
         "topic": "ppb/kel28/iot/temperature"
